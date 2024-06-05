@@ -1,4 +1,4 @@
-# SQLHOMEWORK1Certainly! Here are some notes on SQL JOINs:
+# SQLHOMEWORK1
 
 SQL JOINs are used to combine rows from two or more tables, based on a related column between them. There are several types of JOINs:
 
