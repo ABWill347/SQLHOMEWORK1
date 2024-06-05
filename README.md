@@ -20,3 +20,9 @@ Example: To display all authors, including those without books, you would RIGHT 
 FULL JOIN (or FULL OUTER JOIN): Returns rows when there is a match in one of the tables. It combines the results of both LEFT and RIGHT JOINs.
 Syntax: SELECT * FROM table1 FULL OUTER JOIN table2 ON table1.column_name = table2.column_name;
 Example: To show all books and all authors, regardless of whether they are matched or not, you would use a FULL JOIN between books and authors.
+
+
+
+
+
+
